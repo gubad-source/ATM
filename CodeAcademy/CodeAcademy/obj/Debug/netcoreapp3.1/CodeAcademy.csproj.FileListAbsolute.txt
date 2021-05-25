@@ -1,0 +1,13 @@
+C:\Users\qubad\Desktop\CodeAcademy\CodeAcademy\bin\Debug\netcoreapp3.1\CodeAcademy.exe
+C:\Users\qubad\Desktop\CodeAcademy\CodeAcademy\bin\Debug\netcoreapp3.1\CodeAcademy.deps.json
+C:\Users\qubad\Desktop\CodeAcademy\CodeAcademy\bin\Debug\netcoreapp3.1\CodeAcademy.runtimeconfig.json
+C:\Users\qubad\Desktop\CodeAcademy\CodeAcademy\bin\Debug\netcoreapp3.1\CodeAcademy.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\CodeAcademy\CodeAcademy\bin\Debug\netcoreapp3.1\CodeAcademy.dll
+C:\Users\qubad\Desktop\CodeAcademy\CodeAcademy\bin\Debug\netcoreapp3.1\CodeAcademy.pdb
+C:\Users\qubad\Desktop\CodeAcademy\CodeAcademy\obj\Debug\netcoreapp3.1\CodeAcademy.csprojAssemblyReference.cache
+C:\Users\qubad\Desktop\CodeAcademy\CodeAcademy\obj\Debug\netcoreapp3.1\CodeAcademy.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\CodeAcademy\CodeAcademy\obj\Debug\netcoreapp3.1\CodeAcademy.AssemblyInfo.cs
+C:\Users\qubad\Desktop\CodeAcademy\CodeAcademy\obj\Debug\netcoreapp3.1\CodeAcademy.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\CodeAcademy\CodeAcademy\obj\Debug\netcoreapp3.1\CodeAcademy.dll
+C:\Users\qubad\Desktop\CodeAcademy\CodeAcademy\obj\Debug\netcoreapp3.1\CodeAcademy.pdb
+C:\Users\qubad\Desktop\CodeAcademy\CodeAcademy\obj\Debug\netcoreapp3.1\CodeAcademy.genruntimeconfig.cache
