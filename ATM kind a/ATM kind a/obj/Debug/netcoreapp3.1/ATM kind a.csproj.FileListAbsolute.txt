@@ -1,0 +1,14 @@
+C:\Users\qubad\Desktop\ATM kind a\ATM kind a\bin\Debug\netcoreapp3.1\ATM kind a.exe
+C:\Users\qubad\Desktop\ATM kind a\ATM kind a\bin\Debug\netcoreapp3.1\ATM kind a.deps.json
+C:\Users\qubad\Desktop\ATM kind a\ATM kind a\bin\Debug\netcoreapp3.1\ATM kind a.runtimeconfig.json
+C:\Users\qubad\Desktop\ATM kind a\ATM kind a\bin\Debug\netcoreapp3.1\ATM kind a.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\ATM kind a\ATM kind a\bin\Debug\netcoreapp3.1\ATM kind a.dll
+C:\Users\qubad\Desktop\ATM kind a\ATM kind a\bin\Debug\netcoreapp3.1\ATM kind a.pdb
+C:\Users\qubad\Desktop\ATM kind a\ATM kind a\obj\Debug\netcoreapp3.1\ATM kind a.csproj.AssemblyReference.cache
+C:\Users\qubad\Desktop\ATM kind a\ATM kind a\obj\Debug\netcoreapp3.1\ATM kind a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qubad\Desktop\ATM kind a\ATM kind a\obj\Debug\netcoreapp3.1\ATM kind a.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\ATM kind a\ATM kind a\obj\Debug\netcoreapp3.1\ATM kind a.AssemblyInfo.cs
+C:\Users\qubad\Desktop\ATM kind a\ATM kind a\obj\Debug\netcoreapp3.1\ATM kind a.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\ATM kind a\ATM kind a\obj\Debug\netcoreapp3.1\ATM kind a.dll
+C:\Users\qubad\Desktop\ATM kind a\ATM kind a\obj\Debug\netcoreapp3.1\ATM kind a.pdb
+C:\Users\qubad\Desktop\ATM kind a\ATM kind a\obj\Debug\netcoreapp3.1\ATM kind a.genruntimeconfig.cache
